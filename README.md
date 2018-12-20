@@ -14,9 +14,13 @@ npm test
 ![Desktop screenshot](https://github.com/lisaliwebdesign/chart/blob/master/images/chart.PNG)
 
 ## Code
+
 express
+
 socket.io
+
 mongoose
+
 jasmine
 
 
